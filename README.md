@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Bhavika Singla</h1>
 <h3 align="center">An Aspiring Front-End developer from India</h3>
 
-- 🌱 I’m currently learning **C/C++, Front-End and Back-end**
+
+- 🌱 I’m currently learning **C, C++, Java, Front-End and Back-end Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhavikasingla](https://github.com/Bhavikasingla)
 
-- 💬 Ask me about **C/C++, DSA, Front-End**
+- 💬 Ask me about **C, C++, Java, DSA, Front-End, OS(Operating System), CN(Computer Networks)**
 
 - 📫 How to reach me **bhavikasingla8@gmail.com**
 
