@@ -2,13 +2,13 @@
 <h3 align="center">An Aspiring Front-End developer from India</h3>
 
 
-- 🌱 I’m currently learning **C, C++, Java, Front-End and Back-end Development**
+- 🌱 I’m currently learning: **C, C++, Java, Front-End and Back-end Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhavikasingla](https://github.com/Bhavikasingla)
+- 👨‍💻 All of my projects are available at: [https://github.com/Bhavikasingla](https://github.com/Bhavikasingla)
 
-- 💬 Ask me about **C, C++, Java, DSA, Front-End, OS(Operating System), CN(Computer Networks)**
+- 💬 Ask me about: **C, C++, Java, DSA, Front-End, OS(Operating System), CN(Computer Networks)**
 
-- 📫 How to reach me **bhavikasingla8@gmail.com**
+- 📫 How to reach me: **bhavikasingla8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
