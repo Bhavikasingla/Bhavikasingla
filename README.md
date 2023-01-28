@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Bhavika Singla</h1>
-<h3 align="center">An Aspiring Front-End developer from India</h3>
+<h3 align="center">An Aspiring Full-stack Developer from India</h3>
 
 
 - 🌱 I’m currently learning: **C, C++, Java, Front-End and Back-end Development**
